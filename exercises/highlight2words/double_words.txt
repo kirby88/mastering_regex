@@ -1,0 +1,26 @@
+1. This This paragraph contains double words, same case, one space, same line.
+
+A word like meme is basically the same word twice, but shoudln't appear.
+
+This paragraph doesn't contain anything.
+
+2. This this paragraph contains double words, not the same case, one space, same line.
+
+This paragraph doesn't contain anything.
+
+This paragraph doesn't contain anything.
+
+3. This paragraph contains double words    WORDS, not the same case, one space and one tab, same line.
+
+This paragraph doesn't contain anything.This paragraph doesn't contain anything.
+
+4. This paragraph contains double words      
+   WORDS, not the same case, spaces and tab, not on the same line.
+
+This paragraph doesn't contain anything.
+
+5. This paragraph contains double words at the end of line     linE
+6. This paragraph contains double words at the end of line
+lINe.
+
+7. Finally, we shound also handle html<p>html tags
